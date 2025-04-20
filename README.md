@@ -26,7 +26,7 @@ A multi-container application that scrapes websites and serves the content. This
 
 ```bash
 # Clone this repo (if you haven't already)
-git clone 
+git clone https://github.com/rahulhingve/web-scraper
 cd web-scraper
 
 # Build the Docker image

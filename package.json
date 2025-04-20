@@ -1,0 +1,25 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "A headless web scraper that extracts information from websites",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js",
+    "test": "echo \"No tests yet\" && exit 0",
+    "lint": "echo \"No linting configured yet\""
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer",
+    "web",
+    "automation"
+  ],
+  "author": "rahul",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+} 
